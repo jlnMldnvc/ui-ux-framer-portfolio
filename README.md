@@ -1,44 +1,45 @@
-# Adaptivnost:
+# UI/UX Design Portfolio - Framer
 
-- na 390 px nijedna stranica ne odlazi u stranu;
-- naslovi staju i ne prekidaju se usred reči;
-- slike se vide u celini i nisu odsečene napola;
-- ono što se ranije pokazivalo na hover, na telefonu se vidi odmah.
+A multi-page portfolio website designed and built in Framer as part of the UX/UI Design Portfolio course.
 
-# Meni i linkovi:
+## Live Preview
 
-burger se otvara i zatvara;
+- [Home - Portfolio](https://jane-doee.framer.website/home-7)
+- [About](https://jane-doee.framer.website/about-5)
+- [Additional Home Page](https://jane-doee.framer.website/home-6)
+- [Nora Finance - Project Page](https://jane-doee.framer.website/nora-finance-6)
 
-meni se zatvara posle prelaska na link;
+## Project Overview
 
-prst pogađa linkove i dugmad;
+This project explores the design and development of a personal portfolio website using Framer. It brings together multiple pages, reusable interface elements, responsive layouts, and interactive effects.
 
-svi linkovi vode tamo gde treba, uključujući mejl i društvene mreže.
+The website was developed through a series of practical assignments covering the portfolio creation process, from page structure and visual styling to animation, responsive behavior, and final publishing.
 
-# Kontakti:
+## Key Focus Areas
 
-forma se šalje, pismo stiže vama na mejl;
+- UI/UX design and visual hierarchy
+- Multi-page website structure and navigation
+- Layout composition using stacks and grids
+- Reusable components and consistent styling
+- Hover, scroll, and click interactions
+- Responsive design for desktop, tablet, and mobile
+- Website publishing and accessibility considerations
 
-posle slanja osoba vidi potvrdu;
+## Tools
 
-mejl je napisan tekstom, može se markirati i kopirati.
+- Framer
+- Figma
 
-# Metapodaci:
+## Project Status
 
-u tabu pregledača stoji vaše ime;
+This is a work in progress created for learning and portfolio development purposes. The current version uses placeholder text and images, so the content does not represent finalized case studies or completed client projects.
 
-svaka stranica ima upisane sopstvene Title i Description;
+The main focus is on exploring page layouts, visual presentation, responsive behavior, and interactive website design.
 
-adrese stranica napisane su latinicom malim slovima razdvojeno crticom;
+## What I Learned
 
-pri slanju linka u mesindžer pojavljuje se pregled sa slikom;
+Through this project, I practiced structuring multi-page websites, organizing layouts, creating reusable components, adding interactions, and adapting designs to different screen sizes.
 
-favicon stoji na mestu.
+---
 
-# Pristupačnost:
-
-na svakoj stranici stoji jedan H1;
-
-zaglavlje, meni, osnovni sadržaj i podnožje imaju tagove;
-
-sve sadržajne slike imaju alt.
+**Live website:** [View the portfolio in Framer](https://jane-doee.framer.website/home-7)
